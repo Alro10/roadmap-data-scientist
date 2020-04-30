@@ -16,6 +16,11 @@ The basic roadmap to become a data scientist
 -
 -
 
+### Data Science
+
+- [Data Science Methodology](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0103EN+v3/info)
+- 
+
 ### SQL
 
 -
