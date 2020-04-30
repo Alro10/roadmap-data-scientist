@@ -12,7 +12,7 @@ The basic roadmap to become a data scientist
 
 ### Machine Learning
 
--
+- [Machine Learning with Python](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0101ENv3+2018/info)
 -
 -
 
