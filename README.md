@@ -18,6 +18,7 @@ The basic roadmap to become a data scientist
 
 ### Data Science
 
+- [Introduction to Data Science](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+DS0101EN+2016/info)
 - [Data Science Methodology](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0103EN+v3/info)
 - [Data Science Hands-On with Open Source Tools](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0105EN+v2/info)
 
