@@ -2,6 +2,10 @@
 
 The basic roadmap to become a data scientist
 
+<p align="center">
+<img src="ds_o.png">
+</p>
+
 ## Courses
 
 ### Python
