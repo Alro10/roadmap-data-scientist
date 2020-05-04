@@ -34,8 +34,8 @@ The basic roadmap to become a data scientist
 
 ### Deploy ML models
 
--
--
+- [Container & Kubernetes Essentials with IBM Cloud](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+CO0201EN+v1/info)
+- 
 -
 
 ## Tutorials
