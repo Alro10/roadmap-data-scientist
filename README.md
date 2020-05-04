@@ -28,7 +28,7 @@ The basic roadmap to become a data scientist
 
 ### SQL
 
--
+- [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
 -
 -
 
