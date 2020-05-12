@@ -43,7 +43,7 @@ The basic roadmap to become a data scientist
 - [Big Data Introduction](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0101EN+2016_T2/courseware)
 - [Spark Fundamentals 1](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0211EN+2016/info)
 
-### Deploy ML models
+### Deploy ML model
 
 - [Container & Kubernetes Essentials with IBM Cloud](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+CO0201EN+v1/info)
 - [Docker Essentials: A Developer Introduction](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1/info)
