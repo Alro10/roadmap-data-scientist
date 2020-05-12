@@ -24,7 +24,7 @@ The basic roadmap to become a data scientist
 
 - [Deep Learning Fundamentals](https://courses.cognitiveclass.ai/courses/course-v1:DeepLearning.TV+ML0115EN+v2.0/info)
 - [Deep Learning with TensorFlow](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0120ENv2+2018/info)
--
+- [Accelerating Deep Learning with GPU](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+ML0122ENv1+2019/info)
 
 ### Data Science
 
