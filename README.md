@@ -20,23 +20,21 @@ The basic roadmap to become a data scientist
 - [Machine Learning with R](https://cognitiveclass.ai/courses/machine-learning-r)
 -
 
-### Deep Learning
-
-- [Deep Learning Fundamentals](https://courses.cognitiveclass.ai/courses/course-v1:DeepLearning.TV+ML0115EN+v2.0/info)
-- [Deep Learning with TensorFlow](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0120ENv2+2018/info)
-- [Accelerating Deep Learning with GPU](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+ML0122ENv1+2019/info)
-
 ### Data Science
 
 - [Introduction to Data Science](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+DS0101EN+2016/info)
 - [Data Science Methodology](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0103EN+v3/info)
 - [Data Science Hands-On with Open Source Tools](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0105EN+v2/info)
 
-### SQL
+### Deep Learning
+
+- [Deep Learning Fundamentals](https://courses.cognitiveclass.ai/courses/course-v1:DeepLearning.TV+ML0115EN+v2.0/info)
+- [Deep Learning with TensorFlow](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0120ENv2+2018/info)
+- [Accelerating Deep Learning with GPU](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+ML0122ENv1+2019/info)
+
+### SQL and Databases
 
 - [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
--
--
 
 ### ML Engineer
 
@@ -47,7 +45,7 @@ The basic roadmap to become a data scientist
 
 - [Container & Kubernetes Essentials with IBM Cloud](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+CO0201EN+v1/info)
 - [Docker Essentials: A Developer Introduction](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1/info)
--
+- [Getting started with Microservices with Istio and IBM Cloud Kubernetes Service](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+CO0301EN+v1/course/)
 
 ## Tutorials
 
