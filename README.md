@@ -42,6 +42,7 @@ The basic roadmap to become a data scientist
 - [Spark Fundamentals 1](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0211EN+2016/info)
 - [Spark Overview for Scala Analytics](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+SC0103EN+2016/course/)
 - [Hadoop 101](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016/course/)
+- [Data Science with Scala](https://courses.cognitiveclass.ai/courses/course-v1:Lightbend+SC0105EN+v1/course/)
 
 ### Deploy ML model
 
