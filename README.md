@@ -14,17 +14,20 @@ The basic roadmap to become a data scientist
 - [Data Visualization with Python](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DV0101EN+v1/info)
 - [Data Analysis with Python](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/info)
 
-### Machine Learning
-
-- [Machine Learning with Python](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0101ENv3+2018/info)
-- [Machine Learning with R](https://cognitiveclass.ai/courses/machine-learning-r)
--
+First project: Analyse dataset and create visualizations
 
 ### Data Science
 
 - [Introduction to Data Science](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+DS0101EN+2016/info)
 - [Data Science Methodology](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0103EN+v3/info)
 - [Data Science Hands-On with Open Source Tools](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0105EN+v2/info)
+
+### Machine Learning
+
+- [Machine Learning with Python](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0101ENv3+2018/info)
+- [Machine Learning with R](https://cognitiveclass.ai/courses/machine-learning-r)
+
+Second project: Challenge problem to apply ML algorithms, such as Random Forrest, Decision Trees, Logistic Regression. 
 
 ### Deep Learning
 
@@ -36,7 +39,15 @@ The basic roadmap to become a data scientist
 
 - [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
 
-### ML Engineer
+### Deploy ML model
+
+- [Container & Kubernetes Essentials with IBM Cloud](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+CO0201EN+v1/info)
+- [Docker Essentials: A Developer Introduction](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1/info)
+- [Getting started with Microservices with Istio and IBM Cloud Kubernetes Service](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+CO0301EN+v1/course/)
+
+Final project: end to end data science solution. Model + Docker + Deploy in IBM cloud
+
+### ML Engineer part
 
 - [Big Data Introduction](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0101EN+2016_T2/courseware)
 - [Spark Fundamentals 1](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0211EN+2016/info)
@@ -44,11 +55,6 @@ The basic roadmap to become a data scientist
 - [Hadoop 101](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016/course/)
 - [Data Science with Scala](https://courses.cognitiveclass.ai/courses/course-v1:Lightbend+SC0105EN+v1/course/)
 
-### Deploy ML model
-
-- [Container & Kubernetes Essentials with IBM Cloud](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+CO0201EN+v1/info)
-- [Docker Essentials: A Developer Introduction](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CO0101EN+v1/info)
-- [Getting started with Microservices with Istio and IBM Cloud Kubernetes Service](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+CO0301EN+v1/course/)
 
 ## Tutorials
 
