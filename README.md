@@ -55,6 +55,9 @@ Final project: end to end data science solution. Model + Docker + Deploy in IBM 
 - [Hadoop 101](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016/course/)
 - [Data Science with Scala](https://courses.cognitiveclass.ai/courses/course-v1:Lightbend+SC0105EN+v1/course/)
 
+## Tests
+
+- In test directory you can find the notebooks for validate your Python knowledge.
 
 ## Tutorials
 
